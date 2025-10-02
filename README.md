@@ -2,6 +2,33 @@
 
 A tiny, stubborn commitment to mathematical fluency. This repo tracks a daily loop of **Read → Exercise → Code** across the math that powers AI/ML/DS: probability, calculus/analysis, linear algebra, optimization, information theory, and the math in my current courses—**causal inference**, **probabilistic machine learning**, and **reinforcement learning algorithms**.
 
+## Week 1 - Oct 2025 
+----
+
+#### 10/01
+  - excercise 1: 2.4 of Causal Inference book - link to Proof : TBA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Why this exists
 
 Surface-level projects are easy to start and easy to fake. Real capability comes from proofs, derivations, counterexamples, and the habit of turning ideas into minimal, working code. The aim here isn’t volume or novelty; it’s **clarity** and **control**—to understand definitions precisely, to manipulate them confidently, and to instantiate them in code without crutches.
