@@ -1,5 +1,10 @@
 # do-the-math — Logs
 
+--- 
+
+# Rememeber : <poor charlie's - take simple, take it seriously> . so we will bet on math, theory and science - take smaller but essential conepts and learn and practice...
+
+
 A tiny, stubborn commitment to mathematical fluency. This repo tracks a daily loop of **Read → Exercise → Code** across the math that powers AI/ML/DS: probability, calculus/analysis, linear algebra, optimization, information theory, and the math in my current courses—**causal inference**, **probabilistic machine learning**, and **reinforcement learning algorithms**.
 
 ## Week 1 - Oct 2025 
