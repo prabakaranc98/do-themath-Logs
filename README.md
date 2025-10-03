@@ -7,6 +7,8 @@ A tiny, stubborn commitment to mathematical fluency. This repo tracks a daily lo
 
 #### 10/01
   - excercise 1: 2.4 of Causal Inference book - link to Proof : TBA
+#### 10/2 
+  - worked on derivation of MDPs and Black well optimality.
 
 
 
